@@ -2,6 +2,7 @@
 
 A responsive Quiz Application built using HTML, CSS, and JavaScript.
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://srisakshi-12.github.io/Quiz-Application/)
+[![GitHub](https://img.shields.io/badge/View%20Source-GitHub-black?style=for-the-badge&logo=github)](https://github.com/SRISAKSHI-12/Quiz-Application)
 
 
 ## ✨ Features
