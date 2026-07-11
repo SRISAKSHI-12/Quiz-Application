@@ -1,6 +1,8 @@
 # 🧠 Quiz Application
 
 A responsive Quiz Application built using HTML, CSS, and JavaScript.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://srisakshi-12.github.io/Quiz-Application/)
+
 
 ## ✨ Features
 
@@ -28,8 +30,6 @@ Quiz-Application
 │── README.md
 │── screenshots/
 ```
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://srisakshi-12.github.io/Quiz-Application/)
-
 ## 🚀 How to Run
 
 1. Download or clone the repository.
